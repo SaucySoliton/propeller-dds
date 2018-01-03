@@ -1,2 +1,2 @@
 # propeller-dds
-Direct Digital Synthesiser for Propeller microcontroller, and FM transmitter demo
+Direct Digital Synthesizer for Propeller microcontroller, and FM transmitter demo

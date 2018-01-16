@@ -42,7 +42,7 @@ ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEAL
 '  _XinFREQ = 5_000_000
 
 OBJ
-  dds     : "dds_3bit"
+  dds     : "dds_2bit"
   
 VAR
   long parameter

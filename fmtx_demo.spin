@@ -10,8 +10,10 @@ CON
 
 OBJ
     sound   :   "Retronitus"
+'
     tx      :   "fmtx_3bit"                 ' Just 2 lines to add FM transmitter 
-
+ '   tx      :   "fmtx_pll"                 ' Just 2 lines to add FM transmitter 
+                                            ' 
 PUB Main
     sound.start(left_pin, right_pin)
     sound.playMusic(@music)
